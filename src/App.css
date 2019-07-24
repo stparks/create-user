@@ -1,0 +1,18 @@
+body{padding: 10px;}
+
+.invalid-feedback, .form-text{
+  font-weight: bold;
+  margin-left: 8px;
+}
+
+#create-user-form {
+  border:1px solid grey !important;
+  padding: 10px;
+} 
+
+input{margin: 5px;}
+button{margin: 0px 5px;}
+
+.hidden{
+  display: none !important;
+}
